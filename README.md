@@ -14,8 +14,8 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsMirakl&show_icons=true&theme=radical&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsMirakl&layout=compact&theme=radical&hide_border=true)
   
 </div>
 
@@ -25,7 +25,7 @@
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=IsMirakl&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,postgres,git,docker,aws,figma,vscode,html,css,tailwind,redis,postman&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,postgres,git,figma,vscode,html,css,tailwind,postman&theme=dark&perline=9" />
   
 </div>
 
@@ -67,9 +67,9 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/IsMirakl/IsMirakl/blob/output/github-contribution-grid-snake.svg)
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=IsMirakl&theme=radical&hide_border=true)](https://git.io/streak-stats)
   
 </div>
 
@@ -77,7 +77,7 @@
 
 ## 📊 Активность за год
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IsMirakl&theme=react-dark&hide_border=true&area=true)
 
 <br />
 
