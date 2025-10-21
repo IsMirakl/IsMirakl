@@ -67,8 +67,6 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/IsMirakl/IsMirakl/blob/output/github-contribution-grid-snake.svg)
-  
   [![GitHub Streak](https://streak-stats.demolab.com?user=IsMirakl&theme=radical&hide_border=true)](https://git.io/streak-stats)
   
 </div>
@@ -83,7 +81,7 @@
 
 ## 🎯 Избранные проекты
 
-### 🔥 [Название проекта 1](https://github.com/IsMirakl/https://github.com/IsMirakl/PTK-project)
+### 🔥 [PTKnow](https://github.com/IsMirakl/https://github.com/IsMirakl/PTK-project)
 > Краткое описание проекта - PTKonw - сайт для Политехнического колледжа ПТИ НовГУ. Информационный портал с дополнительным образованием
 
 <br />
