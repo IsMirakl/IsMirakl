@@ -4,9 +4,9 @@
 
 <div align="center">
   
-  ### 🚀 Fullstack Developer | React & Node.js 
+  ### 🚀 Frontend Developer | React 
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Люблю+чистый+код;Fullstack+разработчик;React+%7C+TypeScript+%7C+Node.js;Открыт+к+новым+проектам" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435;Frontend+разработчик;React+%7C+TypeScript;Открыт+к+новым+проектам" alt="Typing SVG" />
   
 </div>
 
