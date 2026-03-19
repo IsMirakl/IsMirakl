@@ -6,7 +6,7 @@
   
 ### 🚀 Backend Developer | Golang
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Backend+Developer;Golang+Developer;Node.js+%7C+PostgreSQL;Открыт+к+новым+проектам" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Backend+Developer;Golang+Developer;PostgreSQL;Открыт+к+новым+проектам" alt="Typing SVG" />
 
 </div>
 
@@ -86,6 +86,10 @@
 
 Информационный портал для Политехнического колледжа ПТИ НовГУ.  
 Сайт с дополнительными образовательными программами и информацией для студентов.
+
+### 👥 [TeamUP](https://github.com/IsMirakl/TeamUp)
+
+TeamUp - платформа для поиска партнеров и команд для стартапов и любимых проектов. Сервис помогает находить людей на основе навыков, интересов и целей.
 
 <br />
 
