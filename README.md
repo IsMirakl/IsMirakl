@@ -32,6 +32,21 @@
 | **Frontend** | React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS |
 | **Инструменты** | Git · Postman · VS Code · Figma |
 
+## GitHub в цифрах
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IsMirakl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&locale=ru" alt="Статистика GitHub: звёзды, коммиты и вклад в проекты" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsMirakl&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&locale=ru" alt="Наиболее используемые языки в публичных репозиториях" />
+
+</div>
+
+### Активность
+
+[![График активности](https://github-readme-activity-graph.vercel.app/graph?username=IsMirakl&bg_color=0D1117&color=A78BFA&line=A78BFA&point=C9D1D9&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/IsMirakl)
+
+<sub>Карточки обновляются сторонними сервисами и могут загружаться с задержкой. Языки определяются по публичным репозиториям, а не по уровню владения.</sub>
+
 ## Проекты
 
 ### [OpsForge ↗](https://github.com/IsMirakl/OpsForge)
