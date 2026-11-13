@@ -36,16 +36,16 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IsMirakl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&locale=ru" alt="Статистика GitHub: звёзды, коммиты и вклад в проекты" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsMirakl&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&locale=ru" alt="Наиболее используемые языки в публичных репозиториях" />
+<img width="340" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Статистика GitHub: звёзды, коммиты и вклад в проекты" />
+<img width="340" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Распределение публичных репозиториев по языкам" />
 
 </div>
 
 ### Активность
 
-[![График активности](https://github-readme-activity-graph.vercel.app/graph?username=IsMirakl&bg_color=0D1117&color=A78BFA&line=A78BFA&point=C9D1D9&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/IsMirakl)
+[![График активности](./profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/IsMirakl)
 
-<sub>Карточки обновляются сторонними сервисами и могут загружаться с задержкой. Языки определяются по публичным репозиториям, а не по уровню владения.</sub>
+<sub>SVG-карточки хранятся в этом репозитории и обновляются ежедневно через GitHub Actions. Языки определяются по репозиториям, а не по уровню владения.</sub>
 
 ## Проекты
 
