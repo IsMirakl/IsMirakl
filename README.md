@@ -1,100 +1,59 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Привет!%20👋&fontSize=60&animation=fadeIn" />
-</div>
 
-<div align="center">
-  
-### 🚀 Backend Developer | Golang
+# Привет, я Даня 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Backend+Developer;Golang+Developer;PostgreSQL;Открыт+к+новым+проектам" alt="Typing SVG" />
+### Backend-разработчик · C# / .NET
 
-</div>
+19 лет. Пишу бэкенд, развиваю свои проекты и изучаю экосистему .NET.
 
-<br />
+[![C#](https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsMirakl&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsMirakl&layout=compact&theme=radical&hide_border=true)
+[Telegram](https://t.me/NoCyberAttack) · [Email](mailto:mirakldanya@gmail.com) · [Проекты](https://github.com/IsMirakl?tab=repositories)
 
 </div>
 
-<br />
+---
 
-## 🏆 GitHub Trophies
+## Обо мне
 
-<div align="center">
+- **Сейчас мой основной язык — C#.** Развиваюсь в backend-разработке на .NET и ASP.NET Core.
+- Раньше писал на **Go** — этот опыт остаётся частью моего стека.
+- Для веб-интерфейсов использую **React и TypeScript**.
+- Люблю превращать идеи в работающие приложения — от API до интерфейса.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IsMirakl&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+## Технологии
 
-</div>
+| Направление | Стек |
+| :--- | :--- |
+| **Основной фокус** | C# · .NET · ASP.NET Core |
+| **Backend и данные** | Go · Node.js · PostgreSQL |
+| **Frontend** | React · TypeScript · JavaScript · HTML · CSS · Tailwind CSS |
+| **Инструменты** | Git · Postman · VS Code · Figma |
 
-<br />
+## Проекты
 
-## 🛠️ Мой стэк технологий
+### [OpsForge ↗](https://github.com/IsMirakl/OpsForge)
+Рабочее пространство для мониторинга серверов и инфраструктуры: состояние ресурсов, метрики и управление доступом.
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+`C#` `ASP.NET Core` `React` `TypeScript`
 
-### Backend
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### [TeamUp ↗](https://github.com/IsMirakl/TeamUp)
+Платформа для поиска партнёров и команд для стартапов и личных проектов — по навыкам, интересам и целям.
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### [PTKnow ↗](https://github.com/IsMirakl/PTK-project)
+Информационный портал для Политехнического колледжа ПТИ НовГУ: дополнительные образовательные программы и полезная информация для студентов.
 
-<br />
-
-## 🎯 Навыки
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,react,ts,js,nodejs,postgres,git,figma,vscode,html,css,tailwind,postman&theme=dark&perline=9" />
+### На связи
+
+Есть идея или хочешь обсудить проект? Напиши.
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NoCyberAttack)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirakldanya@gmail.com)
 
 </div>
-
-<br />
-
-## 📈 Активность
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=IsMirakl&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<br />
-
-## 📊 Активность за год
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IsMirakl&theme=react-dark&hide_border=true&area=true)
-
-<br />
-
-## 🎯 Избранные проекты
-
-### 🔥 [PTKnow](https://github.com/IsMirakl/PTK-project)
-
-Информационный портал для Политехнического колледжа ПТИ НовГУ.  
-Сайт с дополнительными образовательными программами и информацией для студентов.
-
-### 👥 [TeamUP](https://github.com/IsMirakl/TeamUp)
-
-TeamUp - платформа для поиска партнеров и команд для стартапов и любимых проектов. Сервис помогает находить людей на основе навыков, интересов и целей.
-
-<br />
-
-## 📫 Свяжись со мной
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NoCyberAttack)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirakldanya@gmail.com)
-[![GitHub](ht)]()
